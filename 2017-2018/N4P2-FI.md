@@ -37,7 +37,7 @@ Description du projet
 * git serveur :
 * git android :
 
-# Équipe 4
+# Équipe 4 : IzyFree
 
 Description du projet
 
